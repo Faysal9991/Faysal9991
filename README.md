@@ -22,7 +22,7 @@ As a Software Engineer, I am responsible for developing and implementing softwar
 </table> 
 
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=faysal9991official&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=faysal9991&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 ####
