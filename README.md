@@ -3,22 +3,6 @@ As a Software Engineer, I am responsible for developing and implementing softwar
 
 ## Visitors Count:
 <img align="left" src = "https://profile-counter.glitch.me/rakibkhanofficial/count.svg" alt ="Loading"> |[![wakatime](https://wakatime.com/badge/user/1be6b642-1a9e-4f43-8350-58bc10bf642c.svg)](https://wakatime.com/@1be6b642-1a9e-4f43-8350-58bc10bf642c)
-# 📊 GitHub Stats:
-
-
-<table align="center" border="2">
-  <tr>
-    <td rowspan = "2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibkhanofficial&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true&layout=pie" alt="rakibkhanofficial"/></td>
-<td><img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rakibkhanofficial&show_icons=true&count_private=true&locale=en&theme=radical&hide_border=true" alt="rakibkhanofficial" /></td> 
-  </tr>
- <tr>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibkhanofficial&count_private=true&theme=radical&hide_border=true" alt="rakibkhanofficial"/></td>
- </tr>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rakibkhanofficial\&layout=compact" alt="walkatatime"/></td>
-  </tr>
-</table> 
-
 
 
 # 💻 Tech Stack:
