@@ -1,47 +1,56 @@
-# ✨ Senior Flutter Developer ✨
-*Innovative Flutter & Dart developer with 3.5+ years of experience architecting high-performance cross-platform mobile applications.*
+# 🚀 ✨ Senior Flutter Developer ✨ 🚀
+
+**Innovative Flutter & Dart Expert | Building High-Performance Cross-Platform Apps | 3.5+ Years of Impact**
 
 ---
+## 📊 My Stats at a Glance
 
-## 📊 Stats
-
-![Years Experience](https://img.shields.io/badge/Experience-3.5%2B-green?style=for-the-badge&logo=appveyor)
-![Production Apps](https://img.shields.io/badge/Apps-4%2B-blue?style=for-the-badge&logo=appveyor)
-![Active Users](https://img.shields.io/badge/Users-10K%2B-yellow?style=for-the-badge&logo=appveyor)
-![App Store Rating](https://img.shields.io/badge/Rating-4.7%2B-orange?style=for-the-badge&logo=appveyor)
+![Experience](https://img.shields.io/badge/Experience-3.5%2B%20Years-brightgreen?style=for-the-badge&logo=flutter)
+![Production Apps](https://img.shields.io/badge/Apps%20Launched-4%2B-blueviolet?style=for-the-badge&logo=googleplay)
+![Active Users](https://img.shields.io/badge/Users-10K%2B-ff69b4?style=for-the-badge&logo=supabase)
+![App Rating](https://img.shields.io/badge/Average%20Rating-4.7%2B%20⭐-orange?style=for-the-badge&logo=star)
 
 ---
-
 ## 💫 About Me
-Currently serving as **Senior Mobile App Developer at Akij Venture**, I've led end-to-end delivery of production apps—including e-commerce, social, and fintech solutions.  
-I specialize in building scalable mobile applications using **Clean Architecture**, modern state management (**GetX, Riverpod, Provider**), and real-time features (**WebRTC, Socket.IO**).
 
-My work includes integrating payment gateways (Stripe, bKash), implementing secure OAuth2 flows for PCI DSS compliance, and optimizing app performance—achieving up to **40% reduction in startup time** and **30% improvement in checkout latency**.
+Hey there! 👋 I'm a passionate **Senior Mobile App Developer at Akij Venture**, specializing in crafting seamless, scalable cross-platform experiences with **Flutter & Dart**.
 
----
+I thrive on turning ideas into reality—delivering production-ready apps in e-commerce, social networking, and fintech domains.
 
-## 🏆 Key Achievements
-- 📱 Delivered **10K+ downloads** for My Akij Takaful (Sharia-compliant insurance app)  
-- 💳 Architected cross-platform banking app for Bini Fintec with mutual-fund trading capabilities  
-- 🚀 Improved user retention by **15%** through real-time chat & push notification modules  
-- ✅ Established CI/CD pipelines reducing bug-fix turnaround by **25%**  
-- 🧪 Maintained **80% code coverage** through comprehensive unit & integration testing  
+**Core Strengths:**
+- 🏗️ Clean Architecture & Modular Design
+- ⚡ State Management: GetX, Riverpod, Provider, Bloc
+- 🔗 Real-time Magic: WebRTC, Socket.IO, Firebase
+- 💳 Secure Integrations: Stripe, bKash, OAuth2 (PCI DSS Compliant)
+- 📈 Performance Wizardry: Up to **40% faster startup** & **30% smoother checkout**
 
 ---
+## 🏆 Key Achievements & Wins
 
-## 💻 Tech Stack
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" alt="Dart" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" alt="Android" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+- 📈 Launched **My Akij Takaful** – Sharia-compliant insurance app with **10K+ downloads**
+- 🏦 Architected full-stack cross-platform banking solution for **Bini Fintec** (including mutual-fund trading)
+- 💬 Boosted engagement with real-time chat & notifications → **15% higher user retention**
+- ⚙️ Set up robust CI/CD pipelines → **25% faster bug fixes**
+- 🧪 Champion of quality: Consistent **80%+ code coverage** via unit, widget & integration tests
+
+---
+## 💻 Tech Stack I Love
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60" height="60" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="60" height="60" alt="iOS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
 </p>
 
 ---
-
 ## 👀 Profile Visitors
-![Visitor Count](https://profile-counter.glitch.me/rakibkhanofficial/count.svg)
+
+![Visitor Badge](https://profile-counter.glitch.me/rakibkhanofficial/count.svg?style=for-the-badge)
+
+**Let's connect and build something amazing!** 🔥
