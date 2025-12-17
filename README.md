@@ -1,32 +1,47 @@
-💫 About Me:
-Innovative Flutter & Dart developer with 3.5+ years of experience architecting and delivering high-performance cross-platform mobile applications. Currently serving as Senior Mobile App Developer at Akij Venture, I've led end-to-end delivery of 4+ production apps—including e-commerce, social, and fintech solutions—serving 10,000+ users with 4.7+ average App Store ratings.
-I specialize in building scalable mobile applications using Clean Architecture, modern state management (GetX, Riverpod, Provider), and real-time features (WebRTC, Socket.IO). My work includes integrating payment gateways (Stripe, bKash), implementing secure OAuth2 flows for PCI DSS compliance, and optimizing app performance—achieving up to 40% reduction in startup time and 30% improvement in checkout latency.
-Key Achievements:
+# ✨ Senior Flutter Developer ✨
+*Innovative Flutter & Dart developer with 3.5+ years of experience architecting high-performance cross-platform mobile applications.*
 
-📱 Delivered 10K+ downloads for My Akij Takaful (Sharia-compliant insurance app)
-💳 Architected cross-platform banking app for Bini Fintec with mutual-fund trading capabilities
-🚀 Improved user retention by 15% through real-time chat & push notification modules
-✅ Established CI/CD pipelines reducing bug-fix turnaround by 25%
-🧪 Maintained 80% code coverage through comprehensive unit & integration testing
+---
 
-Currently building production-ready Flutter applications with Firebase, Node.js backends, and native integrations for both Android & iOS platforms.
-Visitors Count:
-<img align="left" src = "https://profile-counter.glitch.me/rakibkhanofficial/count.svg" alt ="Loading"> |Show Image
-💻 Tech Stack:
+## 📊 Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" width="52" alt="chrome logo"  />
-</div>
+![Years Experience](https://img.shields.io/badge/Experience-3.5%2B-green?style=for-the-badge&logo=appveyor)
+![Production Apps](https://img.shields.io/badge/Apps-4%2B-blue?style=for-the-badge&logo=appveyor)
+![Active Users](https://img.shields.io/badge/Users-10K%2B-yellow?style=for-the-badge&logo=appveyor)
+![App Store Rating](https://img.shields.io/badge/Rating-4.7%2B-orange?style=for-the-badge&logo=appveyor)
+
+---
+
+## 💫 About Me
+Currently serving as **Senior Mobile App Developer at Akij Venture**, I've led end-to-end delivery of production apps—including e-commerce, social, and fintech solutions.  
+I specialize in building scalable mobile applications using **Clean Architecture**, modern state management (**GetX, Riverpod, Provider**), and real-time features (**WebRTC, Socket.IO**).
+
+My work includes integrating payment gateways (Stripe, bKash), implementing secure OAuth2 flows for PCI DSS compliance, and optimizing app performance—achieving up to **40% reduction in startup time** and **30% improvement in checkout latency**.
+
+---
+
+## 🏆 Key Achievements
+- 📱 Delivered **10K+ downloads** for My Akij Takaful (Sharia-compliant insurance app)  
+- 💳 Architected cross-platform banking app for Bini Fintec with mutual-fund trading capabilities  
+- 🚀 Improved user retention by **15%** through real-time chat & push notification modules  
+- ✅ Established CI/CD pipelines reducing bug-fix turnaround by **25%**  
+- 🧪 Maintained **80% code coverage** through comprehensive unit & integration testing  
+
+---
+
+## 💻 Tech Stack
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" alt="Dart" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" alt="Android" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+![Visitor Count](https://profile-counter.glitch.me/rakibkhanofficial/count.svg)
