@@ -49,6 +49,7 @@ I thrive on turning ideas into reality—delivering production-ready apps in e-c
 </p>
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=Faysal9991&theme=vue&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ## 👀 Profile Visitors
 
 ![Visitor Badge](https://profile-counter.glitch.me/rakibkhanofficial/count.svg?style=for-the-badge)
