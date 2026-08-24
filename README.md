@@ -25,7 +25,7 @@
 
 </div>
 
-👋 Recruiter Snapshot
+
 
 I am a Senior Mobile App Developer at Akij Venture with 4.5+ years of professional experience building scalable Flutter applications for fintech, insurance, e-commerce, social, and real-time communication products.
 
